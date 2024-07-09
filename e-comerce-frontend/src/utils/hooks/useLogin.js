@@ -1,5 +1,4 @@
-import React, {useCallback, useEffect, useState} from 'react'
-import {useSelector} from 'react-redux'
+import {useCallback, useEffect, useState} from 'react'
 import {useHistory} from 'react-router'
 import {Api} from '../Api'
 import {logout} from '../localstorage'
